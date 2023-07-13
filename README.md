@@ -32,21 +32,8 @@ Ramin.say_hello()
 
  <br>
 
- ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![C-Sharp](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+
 
 ### Hi there 👋, I am Ramin your friendly online developer
 #### data science , biotechnology and anything fun...
@@ -56,7 +43,35 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
 
-Skills: Python , Django , Flask , Html , Css , Javascript , React js , MongoDb , Redis, Mysql , Postgresql , Sqlite , MariaDB , R language , Bash scripting
+
+ ## 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![JAVAScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+
+![React](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&log)&nbsp;
+
+![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+
+![Rlanguage](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
 
 - 🔭 I’m currently working on my Python resume repo which includes 0 to hero projects from beginner to advance. 
 - 🌱 I’m currently learning new techs and subjects for benefitting artificial intelligence. 
