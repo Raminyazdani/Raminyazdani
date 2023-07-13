@@ -43,9 +43,7 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 
 <p align="center">
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
-
 </p>
 
 
