@@ -1,2 +1,1 @@
-# ramin_yz
-This is git repo personalizing repo 
+# Welcome to my personal git page
