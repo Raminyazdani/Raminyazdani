@@ -82,10 +82,5 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Raminyazdani)  
-
-
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
-![Profile views](https://gpvc.arturio.dev/Raminyazdani)  
