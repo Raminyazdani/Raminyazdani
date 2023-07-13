@@ -72,7 +72,7 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 
 
-<div>
+<div align="center">
 <a href="https://github.com/Raminyazdani" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 </a>
