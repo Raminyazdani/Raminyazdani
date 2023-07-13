@@ -78,7 +78,10 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani)  
 
-<div style="background-color:aliceblue;padding:25px;">
+<div style="background-color:aliceblue;padding:25px;
+    display: flex;
+  align-items: center;
+  justify-content: center;">
 <a href="https://github.com/Raminyazdani">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 </a>
