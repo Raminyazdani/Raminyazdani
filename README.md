@@ -41,7 +41,11 @@ Ramin.say_hello()
 
 Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug and protein production using micro-organisms. I love coding and often write scripts to help with my daily routines and challenges. My interests in programming include Python, C, front-end development, robotics, AI, and data science. Some of my projects include crawlers and data manipulators for data analysis. I hope to use my GitHub profile to connect with other developers, contribute to projects, and showcase my work as a CV for potential job opportunities.
 
+<div>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
+
+</div>
 
 
  ## 🛠 &nbsp;Tech Stack
@@ -74,8 +78,9 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani)  
 
+<div style="background-color:aliceblue;padding:25px;">
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raminyazdani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramin-yz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raminyazdani76)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramin_yz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ramin_yz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ramin-yazdani)  
-
+</div>
 
 
 
