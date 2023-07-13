@@ -32,7 +32,9 @@ Ramin.say_hello()
 
  <br>
 
-
+<div style="width: 100%;">
+  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 ### Hi there 👋, I am Ramin your friendly online developer
 #### data science , biotechnology and anything fun...
 ![data science , biotechnology and anything fun...](https://github.com/Raminyazdani/Raminyazdani/blob/master/IMG_2343.JPG?raw=true)
