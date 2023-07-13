@@ -32,9 +32,6 @@ Ramin.say_hello()
 
  <br>
 
-<div style="width: 100%;">
-  <img src="header.svg" style="width: 100%;" alt="Click to see the source">
-</div>
 ### Hi there 👋, I am Ramin your friendly online developer
 #### data science , biotechnology and anything fun...
 ![data science , biotechnology and anything fun...](https://github.com/Raminyazdani/Raminyazdani/blob/master/IMG_2343.JPG?raw=true)
@@ -44,7 +41,11 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 <p align="center">
 
+<span>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
+
+</span>
 
 </p>
 
