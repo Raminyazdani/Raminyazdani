@@ -38,8 +38,8 @@ Ramin.say_hello()
 
 Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug and protein production using micro-organisms. I love coding and often write scripts to help with my daily routines and challenges. My interests in programming include Python, C, front-end development, robotics, AI, and data science. Some of my projects include crawlers and data manipulators for data analysis. I hope to use my GitHub profile to connect with other developers, contribute to projects, and showcase my work as a CV for potential job opportunities.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -104,7 +104,6 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
