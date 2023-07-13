@@ -73,30 +73,32 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 
 ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani)  
 
-<div display="flex">
-<a href="https://github.com/Raminyazdani">
+
+
+<div>
+<a href="https://github.com/Raminyazdani" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 </a>
 
-<a href="https://www.linkedin.com/in/ramin-yz/">
+<a href="https://www.linkedin.com/in/ramin-yz/" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  
 </a>
 
-<a href="https://www.facebook.com/raminyazdani76">
+<a href="https://www.facebook.com/raminyazdani76" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>  
 </a>
 
-<a href="https://www.instagram.com/ramin_yz/">
+<a href="https://www.instagram.com/ramin_yz/" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>  
 </a>
 
-<a href="https://twitter.com/ramin_yz">
+<a href="https://twitter.com/ramin_yz" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>  
 
 </a>
     
 
-<a href="https://stackoverflow.com/users/ramin-yazdani">
+<a href="https://stackoverflow.com/users/ramin-yazdani" align="center">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>  
 </a>
 
