@@ -9,13 +9,13 @@ from abc import ABC
 class Creature(ABC):
     pass
 
-class JafarFeaturesMixin:
+class RaminFeaturesMixin:
     def add_abilities(self) -> None:
-        self.job_skills = ['Coding', 'Financial Markets Analyzing', 'Business']
-        self.sport = ['Horseback Riding', 'Camping', 'Bodybuilding']
-        self.favorites = ['Coffee', 'Games']
+        self.job_skills = ['Coding', 'Biotechnology']
+        self.sport = ['Academic Research', 'Camping', 'Bodybuilding']
+        self.favorites = ['Coffee', 'Games','industry']
         
-class Human(Creature, JafarFeaturesMixin):
+class Human(Creature, RaminFeaturesMixin):
     def __init__(self, full_name: str, location: str, language: str) -> None:       
         self.full_name = full_name
         self.location = location
@@ -24,20 +24,11 @@ class Human(Creature, JafarFeaturesMixin):
     def say_hello(self):
         print('Glad to have you here. I hope you will be interested in my projects')        
         
-jeff = Human('Seyed-Jafar-Yaghoubi', 'Iran', 'Persian')   
-jeff.add_abilities() 
-jeff.say_hello()    
+Ramin = Human('Ramin-Yazdani', 'Iran', 'Persian')   
+ramin.add_abilities() 
+Ramin.say_hello()    
 
 ```
-<!--
-</div>
-<div align="left">
-    <picture align="right">
-        <img align="right" width="140em" height="140em" src="https://github.com/J-Yaghoubi/J-Yaghoubi/blob/main/programming.gif">
-    </picture>
-<br>
-</div>
--->
 
  <br>
 
@@ -56,3 +47,36 @@ jeff.say_hello()
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+
+### Hi there 👋, I am Ramin your friendly online developer
+#### data science , biotechnology and anything fun...
+![data science , biotechnology and anything fun...](https://github.com/Raminyazdani/Raminyazdani/blob/master/IMG_2343.JPG?raw=true)
+
+Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug and protein production using micro-organisms. I love coding and often write scripts to help with my daily routines and challenges. My interests in programming include Python, C, front-end development, robotics, AI, and data science. Some of my projects include crawlers and data manipulators for data analysis. I hope to use my GitHub profile to connect with other developers, contribute to projects, and showcase my work as a CV for potential job opportunities.
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
+
+Skills: Python , Django , Flask , Html , Css , Javascript , React js , MongoDb , Redis, Mysql , Postgresql , Sqlite , MariaDB , R language , Bash scripting
+
+- 🔭 I’m currently working on my Python resume repo which includes 0 to hero projects from beginner to advance. 
+- 🌱 I’m currently learning new techs and subjects for benefitting artificial intelligence. 
+- 👯 I’m looking to collaborate on any projects that fits my expertise and get experience . 
+- 📫 How to reach me: yazdani76ramin@gmail.com 
+
+![GitHub metrics](https://metrics.lecoq.io/Raminyazdani)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Raminyazdani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramin-yz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raminyazdani76)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramin_yz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ramin_yz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ramin-yazdani)  
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Raminyazdani)  
+
+
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
+![Profile views](https://gpvc.arturio.dev/Raminyazdani)  
