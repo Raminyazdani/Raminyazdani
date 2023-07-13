@@ -39,15 +39,8 @@ Ramin.say_hello()
 Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug and protein production using micro-organisms. I love coding and often write scripts to help with my daily routines and challenges. My interests in programming include Python, C, front-end development, robotics, AI, and data science. Some of my projects include crawlers and data manipulators for data analysis. I hope to use my GitHub profile to connect with other developers, contribute to projects, and showcase my work as a CV for potential job opportunities.
 
 
-<p align="center">
-
-<span>
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
 
-</span>
-
-</p>
 
 
  ## 🛠 &nbsp;Tech Stack
