@@ -102,9 +102,9 @@ Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug an
 </div>
 
 
-    ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani)  
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
-    [![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  
+[//]: # (This may be the most platform independent comment ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani))  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  
  
