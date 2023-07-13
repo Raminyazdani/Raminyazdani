@@ -32,7 +32,7 @@ Ramin.say_hello()
 
  <br>
 
-### Hi there 👋, I am Ramin your friendly online developer
+###  I am Ramin your friendly over the internet developer 👋
 #### data science , biotechnology and anything fun...
 ![data science , biotechnology and anything fun...](https://github.com/Raminyazdani/Raminyazdani/blob/master/IMG_2343.JPG?raw=true)
 
