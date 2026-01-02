@@ -1,110 +1,135 @@
+<!--
+Profile README for GitHub (Raminyazdani)
+Source: CV JSON (ramin.json) + existing profile README content
+-->
 
-## :sparkles: Hi there, I am here:   
+<p align="center">
+  <img src="https://res.cloudinary.com/dgflx4rum/image/upload/cv_cover_photo.jpg" alt="cover" />
+</p>
 
-<div dir="ltr">
+<h1 align="center">Ramin Yazdani</h1>
 
-```python
-from abc import ABC
+<p align="center">
+  <b>Bioinformatics (M.Sc.)</b> · <b>Biotechnology</b> · <b>Data Science</b> · <b>Full‑Stack Engineering</b><br/>
+  <i>Saarbrücken, Germany</i>
+</p>
 
-class Creature(ABC):
-    pass
+<p align="center">
+  <a href="https://github.com/Raminyazdani">GitHub</a> ·
+  <a href="https://linkedin.com/in/ramin-yz/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=PIKk-q0AAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://orcid.org/0000-0002-7996-5475">ORCID</a> ·
+  <a href="mailto:raya00001@stud.uni-saarland.de">raya00001@stud.uni-saarland.de</a>
+</p>
 
-class RaminFeaturesMixin:
-    def add_abilities(self) -> None:
-        self.job_skills = ['Coding', 'Biotechnology']
-        self.sport = ['Academic Research', 'Camping', 'Bodybuilding']
-        self.favorites = ['Coffee', 'Games','industry']
-        
-class Human(Creature, RaminFeaturesMixin):
-    def __init__(self, full_name: str, location: str, language: str) -> None:       
-        self.full_name = full_name
-        self.location = location
-        self.language = language
+<p align="center">
+  <img src="https://res.cloudinary.com/dgflx4rum/image/upload/cv_profile_photo.jpg" width="160" alt="profile" style="border-radius: 999px;" />
+</p>
 
-    def say_hello(self):
-        print('Glad to have you here. I hope you will be interested in my projects')        
-        
-Ramin = Human('Ramin-Yazdani', 'Iran', 'Persian')   
-ramin.add_abilities() 
-Ramin.say_hello()    
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+</p>
 
-```
+---
 
- <br>
+## About
 
-###  I am Ramin your friendly over the internet developer 👋
-#### data science , biotechnology and anything fun...
-![data science , biotechnology and anything fun...](https://github.com/Raminyazdani/Raminyazdani/blob/master/IMG_2343.JPG?raw=true)
+I'm Ramin Yazdani, a data science enthusiast deeply passionate about biotechnology and bioinformatics. Currently expanding my knowledge at Saarland University, I thrive on using programming and data analysis to drive impactful research. My background in biotechnology and experience in bioinformatics projects fuel my commitment to exploring innovative solutions and uncovering insights from complex data. As a team player, I eagerly contribute and learn in collaborative environments. Beyond my technical pursuits, I'm improving my German and embracing new challenges.
 
-Hi, I’m Ramin! I’m a developer and biotechnologist with expertise in drug and protein production using micro-organisms. I love coding and often write scripts to help with my daily routines and challenges. My interests in programming include Python, C, front-end development, robotics, AI, and data science. Some of my projects include crawlers and data manipulators for data analysis. I hope to use my GitHub profile to connect with other developers, contribute to projects, and showcase my work as a CV for potential job opportunities.
+### Focus areas
+- **Bioinformatics & omics**: transcriptomics / single‑cell, metagenomics, functional annotation, protein structure.
+- **Data & ML**: statistical modeling, ML workflows, reproducible analysis.
+- **Software**: APIs, automation, dashboards, and tools that turn messy data into usable products.
 
+---
 
+## Featured projects
 
+| Project | What it is |
+|---|---|
+| [Policy Compliance Checker (Flask + React + SQLite)](https://github.com/Raminyazdani/policy-compliance-checker) | Built a FReMP stack web application to upload dynamic security policies and user datasets (JSON/CSV), evaluate per-user… |
+| [IranDoc Ganj Research Paper & Thesis Scraper (Selenium + BeautifulSoup)](https://github.com/Raminyazdani/irandoc) | Developed a Python web-scraping tool using Selenium and BeautifulSoup to crawl ganj.irandoc.ac.ir year-by-year (and pag… |
+| [Personal CV Website (Django + React)](https://github.com/Raminyazdani/My-CV-Website) | Built a personal CV website with a React single-page frontend and a Django backend for data storage and API services, s… |
+| [Movie/TV Discovery & Personalization App (React + Express + MySQL)](https://github.com/Raminyazdani/movie-rating-app) | Built a full-stack movie/TV discovery and personalization monorepo with a React client (Redux Toolkit, Material UI) and… |
+| [Terminal Calculator (TUI) — Python](https://github.com/Raminyazdani/Calculator) | Developed a Python 3.10 terminal calculator (TUI) with safe expression evaluation, command history (view/replay), and l… |
+| [CV Generator — JSON → Awesome-CV PDF (Jinja2 + XeLaTeX)](https://github.com/Raminyazdani/cv_generator) | Developed a Python-based CV generator that renders structured JSON into modular Jinja2+LaTeX section templates using th… |
 
- ## 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![LUA](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp;
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![JAVAScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
-![Rlanguage](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+<details>
+<summary><b>More projects</b></summary>
 
+- [Python Bootcamp Portfolio — Maktab 78](https://github.com/Raminyazdani/HW_all_maktab-78)
+- [Django Marketplace Template](https://github.com/Raminyazdani/Cosmetic_Shop)
+- [Framework-less Python + PostgreSQL (M78 Bookstore)](https://github.com/Raminyazdani/m78bookstore)
+- [Python Projects Roadmap (ongoing)](https://github.com/Raminyazdani/Python-projects)
+- [Hospital DBMS (MySQL + SQL)](https://github.com/Raminyazdani/Hospital-Data-base)
 
-- 🔭 I’m currently working on my Python resume repo which includes 0 to hero projects from beginner to advance. 
-- 🌱 I’m currently learning new techs and subjects for benefitting artificial intelligence. 
-- 👯 I’m looking to collaborate on any projects that fits my expertise and get experience . 
-- 📫 How to reach me: yazdani76ramin@gmail.com 
+</details>
 
+---
 
-<br>
+## Tech stack (high‑signal)
 
-<div align="center">
-<a href="https://github.com/Raminyazdani" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-</a>
+**Languages:** Python · R · C++ · JavaScript  
+**Backend:** Django · Flask · FastAPI · Node.js · Express  
+**Frontend:** React · HTML · CSS · Bootstrap · Tailwind  
+**Data:** PostgreSQL · MySQL · SQLite · MongoDB · Redis  
+**DevOps:** Git · CI/CD · Docker · Kubernetes · Linux CLI  
 
-<a href="https://www.linkedin.com/in/ramin-yz/" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>  
-</a>
+<details>
+<summary><b>Bioinformatics toolbox (selected)</b></summary>
 
-<a href="https://www.facebook.com/raminyazdani76" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>  
-</a>
+- **Transcriptomics / single‑cell:** DESeq2, edgeR, limma, DoubletFinder, ArchR, 10x Visium, Seurat, Cell Ranger
+- **Metagenomics:** eggNOG-mapper, MetaPhlAn, QIIME2, Kraken2
+- **Genomics / QC & mapping:** FASTQC, Bowtie2, BWA, HISAT2, Kallisto, BUSCO, Quast, Library preparation for genome sequencing
+- **Functional annotation / systems biology:** Gene Ontology (GO), Enrichr, BioCyc, Cytoscape, KeGG
+- **Protein structure:** AlphaFold, Modeller, Swiss-Model, HHpred, Hidden Markov Models (HMMs), TmHMM, Rosetta
 
-<a href="https://www.instagram.com/ramin_yz/" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>  
-</a>
+</details>
 
-<a href="https://twitter.com/ramin_yz" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>  
+---
 
-</a>
-    
+## Education
 
-<a href="https://stackoverflow.com/users/ramin-yazdani" align="center">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>  
-</a>
+- **M.Sc. Bioinformatics**, Saarland University (since 2024)  
+- **M.Sc. Biotechnology (Industrial & Environmental)**, University of Tehran (2021–2024)  
+- **B.Sc. Biotechnology**, Islamic Azad University (2017–2021)
 
-</div>
+---
 
+## Experience (selected)
 
-<!---       ![GitHub metrics](https://metrics.lecoq.io/Raminyazdani))        -->  
-<!--- ![GitHub streak stats](https://streak-stats.demolab.com/?user=Raminyazdani) -->  
-<!--- [![trophy](https://github-profile-trophy.vercel.app/?username=Raminyazdani)](https://github.com/ryo-ma/github-profile-trophy)-->  
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani)](https://github.com/anuraghazra/github-readme-stats)-->  
-<!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)  -->  
- 
+- **Full‑stack Developer (Freelance)** — built and maintained web apps, automation, and data workflows (2018–Recent)
+- **Bioinformatics Researcher (M.Sc. thesis)** — omics‑based analysis of microbial genomes / fermentation & bioprocessing (2023–2024)
+- **Research Assistant (Biotechnology Lab / Fermentation Engineering)** — Pichia pastoris fermentation optimization (2023)
+
+---
+
+## Publications
+
+- **Recent Advances in Conventional and Modern Waste Treatment Approaches**  
+  [https://www.taylorfrancis.com/chapters/edit/10.1201/9781003441069-5/recent-advances-conventional-modern-wastewater-treatment-approaches-ramin-yazdani-sharareh-harirchi-mandana-lak-mojdeh-mirshafiei-seyed-ali-nojoumi-mohadasseh-ramezani-behnam-rasekh-fatemeh-yazdian](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003441069-5/recent-advances-conventional-modern-wastewater-treatment-approaches-ramin-yazdani-sharareh-harirchi-mandana-lak-mojdeh-mirshafiei-seyed-ali-nojoumi-mohadasseh-ramezani-behnam-rasekh-fatemeh-yazdian)
+
+---
+
+## Languages
+
+- **Farsi** — Native  
+- **English** — C1 (IELTS Academic overall **8.0**, 2023)  
+- **German** — Beginner (studying)
+
+---
+
+## Contact
+
+- Email: **raya00001@stud.uni-saarland.de**
+- LinkedIn: https://linkedin.com/in/ramin-yz/
+
+<!-- Optional widgets (uncomment if you want them)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Raminyazdani&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raminyazdani&layout=compact)
+-->
